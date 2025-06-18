@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Educa-AI/static/css/main.2db3521a.css",
-    "main.js": "/Educa-AI/static/js/main.ed078c94.js",
+    "main.js": "/Educa-AI/static/js/main.6020fef7.js",
     "index.html": "/Educa-AI/index.html",
     "main.2db3521a.css.map": "/Educa-AI/static/css/main.2db3521a.css.map",
-    "main.ed078c94.js.map": "/Educa-AI/static/js/main.ed078c94.js.map"
+    "main.6020fef7.js.map": "/Educa-AI/static/js/main.6020fef7.js.map"
   },
   "entrypoints": [
     "static/css/main.2db3521a.css",
-    "static/js/main.ed078c94.js"
+    "static/js/main.6020fef7.js"
   ]
 }
