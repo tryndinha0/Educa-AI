@@ -1,10 +1,13 @@
 {
   "files": {
+    "main.css": "/Educa-AI/static/css/main.2db3521a.css",
     "main.js": "/Educa-AI/static/js/main.3f27b9eb.js",
     "index.html": "/Educa-AI/index.html",
+    "main.2db3521a.css.map": "/Educa-AI/static/css/main.2db3521a.css.map",
     "main.3f27b9eb.js.map": "/Educa-AI/static/js/main.3f27b9eb.js.map"
   },
   "entrypoints": [
+    "static/css/main.2db3521a.css",
     "static/js/main.3f27b9eb.js"
   ]
 }
