@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/tryndinha0/Educa-AI/static/js/main.53e63b80.js",
-    "index.html": "/tryndinha0/Educa-AI/index.html",
-    "main.53e63b80.js.map": "/tryndinha0/Educa-AI/static/js/main.53e63b80.js.map"
+    "main.js": "/Educa-AI/static/js/main.53e63b80.js",
+    "index.html": "/Educa-AI/index.html",
+    "main.53e63b80.js.map": "/Educa-AI/static/js/main.53e63b80.js.map"
   },
   "entrypoints": [
     "static/js/main.53e63b80.js"
